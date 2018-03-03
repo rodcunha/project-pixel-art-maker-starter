@@ -1,16 +1,13 @@
-# Pixel Art Maker Project
+# Rodrigo's Pixel Art Maker Project
 
-## Table of Contents
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+## About
 
-## Instructions
+This is part of the projects from the Udacity/Google Nanodegree Scholarship.
 
-To get started, open `designs.js` and start building out the app's functionality.
+There are no contributions to this project however if you would like to give suggestions on improving the work or would like to help me code in a better or more efficient way I would appreciate any input.
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+Thank you for stopping by.
 
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+Regards,
+R
